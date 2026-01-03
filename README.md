@@ -2,7 +2,7 @@
 
 **Never trust. Always verify. Build secure AI.**
 
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Status: Early Development](https://img.shields.io/badge/Status-Early%20Development-orange.svg)]()
 [![Stage: 0 - Foundation](https://img.shields.io/badge/Stage-0%20Foundation-yellow.svg)]()
 
@@ -143,17 +143,27 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for:
 
 ## 📜 License
 
-This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
+This project is licensed under the **Apache License 2.0**.
 
-This means:
-- ✅ You can use, modify, and distribute this code
-- ✅ You must open-source any modifications
-- ✅ You must open-source any network service using this code
-- ✅ Perfect for learning, research, and open-source projects
+**What this means**:
+- ✅ **Free to use** - Use it for any purpose, commercial or non-commercial
+- ✅ **Modify freely** - Change and improve the code as you need
+- ✅ **Distribute** - Share the original or modified versions
+- ✅ **Patent protection** - Explicit patent grant protects users and contributors
+- ✅ **Sublicense** - You can include it in projects with different licenses
+- ⚠️ **Attribution required** - Keep copyright notices and license text
+- ⚠️ **State changes** - Document modifications you make
 
-For commercial licensing options, please contact us.
+**Why Apache 2.0?**
+We chose Apache 2.0 to maximize adoption and impact. Security tools are most effective when widely used. This license:
+- Encourages enterprise adoption
+- Provides clear patent protection
+- Allows commercial use without restrictions
+- Supports our mission to democratize AI security
 
 See [LICENSE](LICENSE) for full details.
+
+**Questions about licensing?** Contact us at contact@zero-trust.ai
 
 ## 🙏 Acknowledgments
 

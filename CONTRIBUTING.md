@@ -303,18 +303,26 @@ We value:
 
 ## 📜 License
 
-By contributing, you agree that your contributions will be licensed under the AGPL-3.0 License.
+By contributing, you agree that your contributions will be licensed under the Apache License 2.0.
 
-You retain copyright to your contributions, but grant us the right to distribute them under this license.
+**What this means for contributors**:
+- Your contributions can be freely used, modified, and distributed
+- You retain copyright to your work
+- You grant others the right to use your contributions under Apache 2.0
+- Your contributions receive the same patent protections as the main project
+
+**Patent Grant**: By contributing, you provide a patent license for any patents you hold that are necessarily infringed by your contribution.
+
+This is the same license used by major projects like Kubernetes, TensorFlow, and Apache projects.
 
 ### Contributor License Agreement (CLA)
 
-For significant contributions, we may ask you to sign a CLA to:
-- Confirm you have the right to contribute
-- Allow dual-licensing for commercial use
-- Protect the project legally
+For significant contributions, we may ask you to sign a CLA. This is optional and only for major contributors who want to:
+- Provide additional patent protections
+- Allow potential future licensing flexibility
+- Formally establish contribution terms
 
-This is standard practice for open-source projects.
+The Apache 2.0 license already provides sufficient patent protection for most contributors, so a CLA is not required for regular contributions.
 
 ---
 

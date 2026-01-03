@@ -1,0 +1,23 @@
+# Core dependencies for Zero-Trust AI Framework
+# Stage 0: Foundation - Minimal dependencies
+
+# Core Python utilities
+python-dotenv>=1.0.0        # Environment variable management
+pydantic>=2.5.0             # Data validation and settings management
+typing-extensions>=4.9.0    # Type hints support
+
+# Logging and monitoring
+structlog>=24.1.0           # Structured logging
+colorama>=0.4.6             # Colored terminal output
+
+# Configuration
+pyyaml>=6.0.1              # YAML configuration files
+
+# Security utilities
+cryptography>=41.0.0        # Cryptographic operations (for future use)
+
+# Future stages will add:
+# - LLM integration libraries (openai, anthropic, etc.)
+# - Vector databases (chromadb, pinecone, etc.)
+# - ML libraries (transformers, torch, etc.)
+# - Monitoring tools (prometheus-client, etc.)
